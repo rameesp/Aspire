@@ -37,7 +37,7 @@ A page or component is split into three sections.
       <li>3) After an API failure</li>
     </ul>
 </p>
-<b>Main libraries that we use</b>
+<b>Main libraries that I used</b>
 <p>
 <ul>
       <li><b>@react-navigation : </b>In this project, this library is used to create bottom tabs and navigate between screens.</li>
